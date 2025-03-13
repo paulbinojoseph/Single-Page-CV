@@ -37,3 +37,5 @@ For any inquiries, feel free to reach out:
 ---
 ✅ **Feel free to clone, modify, or use this template for your own portfolio!**
 
+## 📖 Project Source
+This project is based on the **Single Page CV** project from [roadmap.sh](https://roadmap.sh/projects/single-page-cv).
