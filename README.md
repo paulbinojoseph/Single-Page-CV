@@ -9,7 +9,7 @@ This CV is created using **HTML only** to showcase my skills, education, and exp
 - Download the `index.html` file and open it in a web browser.
 - If GitHub Pages is enabled, you can view it live at:
   ```
-  https://paulbinojoseph.github.io/my-cv/
+  https://paulbinojoseph.github.io/Single-Page-CV/
   ```
 
 ## 📌 Skills
